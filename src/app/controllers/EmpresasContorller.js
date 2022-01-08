@@ -83,3 +83,4 @@ class EmpresasContorler {
 }
 
 module.exports = new EmpresasContorler()
+// export default new EmpresasContorler()

@@ -1,4 +1,4 @@
-//CRUD
+//CRUD- PADRAO MVC (MODEL, VIEW, CONTROLER)
 const express = require("express")
 const app = express()
 
